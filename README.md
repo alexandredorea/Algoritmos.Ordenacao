@@ -18,9 +18,6 @@ Podemos citar como um exemplo e que é assunto desse repositório o algoritmos d
 
 O objetivo deste repositório é apresentar os principais algoritmos de ordenação, cuja finalidade é para o estudo e uma melhor compreensão.
 
-
-## Tipos de algoritmos de ordenação
-
 <table style="width:100%">
 	<thead>
 		<tr> 
@@ -69,6 +66,7 @@ O objetivo deste repositório é apresentar os principais algoritmos de ordenaç
 	</tbody>
 </table>
 
+
 ## Tem alguma dúvida ou sugestão?
 
 Sinta-se à vontade em abrir um [Issue][Defeito] ou [Pull Request][PullRequest], este último usando o Padrão Gitflow (preferencialmente).
@@ -79,7 +77,6 @@ Sinta-se à vontade em abrir um [Issue][Defeito] ou [Pull Request][PullRequest],
 [PullRequest]: <https://github.com/alexandredorea/Algoritmos.Ordenacao/pulls>
 [Licenca]: <https://github.com/alexandredorea/Algoritmos.Ordenacao/blob/master/LICENSE>
 
---------------
 
 ## :star: Deixe uma estrela 
 
